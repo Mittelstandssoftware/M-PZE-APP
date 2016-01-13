@@ -1,4 +1,4 @@
-package de.mittelstand.mpze.app.views;
+package de.mittelstand.mpze.app.activities;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
